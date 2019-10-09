@@ -1,11 +1,11 @@
 # Starter Web Repo
-Oujeil 
+Mo Oujeil 
 
 # Introduction 
-Khatab
+Jamal Khatab
 
 # Purpose
-Badr
+Charbel Badr
 
 # How to contribute
-
+Mouchrik
