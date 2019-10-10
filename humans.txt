@@ -3,7 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+Jihad Rahme 	jihad.rahme@cardinalhealth.com
+Elie Mouchrik
 
 # THANKS
 
