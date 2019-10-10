@@ -8,6 +8,6 @@ Jamal Khatab
 Charbel Badr
 
 # How to contribute
-Mouchrik
+Please fork this repository and then issue pull request for review.
 
 ##Copyright Notice
