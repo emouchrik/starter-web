@@ -9,3 +9,5 @@ Charbel Badr
 
 # How to contribute
 Mouchrik
+
+##Copyright Notice
